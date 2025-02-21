@@ -88,6 +88,6 @@
 
 ## 📫 How to Reach Me?
 
-- 📧 Email: [secemacorp@gmail.com](mailto:secemacorp@gmail.com)  
-- 💼 LinkedIn: [Sergio Cecilia Matilla](https://www.linkedin.com/in/sergio-cecilia-matilla-33672030/)  
-- 💻 GitHub: [SerZeMat](https://github.com/SerZeMat)
+- 💼 LinkedIn: [Sergio Cecilia Matilla](https://www.linkedin.com/in/sergio-cecilia-matilla-33672030/)
+- - 📧 Email: [secemacorp@gmail.com](mailto:secemacorp@gmail.com)    
+
