@@ -17,7 +17,7 @@
 
 ## 📋 About Me
 
-- 💻 Full Stack Developer experienced in **React.js**, **Node.js**, **Express**, and **MongoDB**  
+- 💻 Full Stack Developer experienced in **React.js**, **Node.js**, **Express**, **MongoDB**, and **Python**  
 - 🔐 Implemented authentication with **JWT** and payment gateways with **Stripe API**  
 - 📊 Managed images with **Cloudinary API** and deployed applications on **Render**  
 - 🛠️ Network administrator with expertise in **Active Directory**, **Azure AD**, and **LAN/WAN** network configurations  
@@ -44,7 +44,7 @@
 
 ## 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerZeMat&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerZeMat&layout=compact&theme=radical&langs_count=6)
 
 ## 🏆 GitHub Trophies
 
