@@ -56,10 +56,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SerZeMat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SerZeMat&theme=radical)
-
 <br>
 
 ## 💡 Featured Projects
