@@ -8,7 +8,7 @@
       src="https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg" 
       alt="Profile Image" 
       style="width:100%; 
-      height:50%;">
+      height:80%;">
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergio-cecilia-matilla-33672030/)
