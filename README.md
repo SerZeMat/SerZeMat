@@ -38,6 +38,22 @@
 ### **IT Support & Networking Tools:**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![Active Directory](https://img.shields.io/badge/Active%20Directory-0081CB?style=for-the-badge&logo=microsoft&logoColor=white)  ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
+## 📊 GitHub Stats
+
+![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerZeMat&show_icons=true&theme=radical&count_private=true)
+
+## 🏆 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerZeMat&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SerZeMat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SerZeMat&theme=radical)
+
 
 <br>
 
