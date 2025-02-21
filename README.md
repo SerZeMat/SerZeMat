@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg" alt="Profile Image">
+  <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg" alt="Profile Image" style="width:50%; height:auto;">
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergio-cecilia-matilla-33672030/)
@@ -44,10 +44,14 @@
     <td width="50%">
       <h3 align="center">Full Stack App - E-commerce</h3>
       <div align="center">
-        <a href="https://github.com/SerZeMat/ecommerce-app" target="_blank">
-          <img src="https://i.imgur.com/Jj10cTF.jpg" width="400" alt="ecommerce app">
-        </a>
-      </div>
+  <a href="https://github.com/SerZeMat/ecommerce-app" target="_blank">
+    <img src="https://i.imgur.com/Jj10cTF.jpg" width="400" alt="ecommerce app">
+  </a>
+  <br>
+  <a href="https://sample-service-name-9ew0.onrender.com/" target="_blank">
+    🔗 Live Demo
+  </a>
+</div>
       <p>
         <a href="https://github.com/SerZeMat/ecommerce-app" target="_blank">
           <img src="https://img.shields.io/badge/Code-1f9f9f?style=for-the-badge&logo=github&logoColor=black" alt="Code">
