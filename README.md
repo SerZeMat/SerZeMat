@@ -1,10 +1,10 @@
-                                                                                 <div align="center">
+<div align="center">
   <h1 align="center">Hola, soy <a href="#">Sergio Cecilia Matilla</a> 👋</h1>
   <h3>Full Stack Developer | IT & Network Administrator</h3>
 </div>
 
 <div>
-  <img src="https://i.imgur.com/weNbhGZ.png" alt="Profile Image">
+  <img src="" alt="Profile Image">
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergio-cecilia-matilla-33672030/)
