@@ -66,7 +66,7 @@
       <h3 align="center">Final Boss Store - E-commerce</h3>
       <div align="center">
         <a href="https://sample-service-name-w3rq.onrender.com/" target="_blank">
-          <img src="https://i.imgur.com/Jj10cTF.jpg" width="400" alt="ecommerce app">
+          <img src="https://res.cloudinary.com/dshjlidcs/image/upload/v1741885332/FBS_sdn9cb.png" width="400" alt="ecommerce app">
         </a>
         <br>
         <a href="https://sample-service-name-w3rq.onrender.com/" target="_blank">
