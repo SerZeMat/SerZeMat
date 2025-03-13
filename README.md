@@ -69,7 +69,7 @@
           <img src="https://i.imgur.com/Jj10cTF.jpg" width="400" alt="ecommerce app">
         </a>
         <br>
-        <a href="https://sample-service-name-9ew0.onrender.com/" target="_blank">
+        <a href="https://sample-service-name-w3rq.onrender.com/" target="_blank">
           🔗 Live Demo
         </a>
       </div>
