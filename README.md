@@ -63,9 +63,9 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Full Stack App - E-commerce</h3>
+      <h3 align="center">Final Boss Store - E-commerce</h3>
       <div align="center">
-        <a href="https://github.com/SerZeMat/ecommerce-app" target="_blank">
+        <a href="https://sample-service-name-w3rq.onrender.com/" target="_blank">
           <img src="https://i.imgur.com/Jj10cTF.jpg" width="400" alt="ecommerce app">
         </a>
         <br>
